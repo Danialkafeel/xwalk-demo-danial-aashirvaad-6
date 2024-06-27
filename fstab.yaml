@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p135502-e1347863.adobeaemcloud.com/bin/franklin.delivery/danialkafeel_xwalk-demo-danial-aashirvaad-6/main"
+    url: "https://author-p135502-e1347863.adobeaemcloud.com/bin/franklin.delivery/danialkafeel/xwalk-demo-danial-aashirvaad-6/main"
     type: "markup"
     suffix: ".html"
   
